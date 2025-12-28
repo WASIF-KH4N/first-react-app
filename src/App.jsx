@@ -1,6 +1,6 @@
-
 import { useState } from 'react'
-import './App.css';
+import './index.css'
+
 import reactLogo from './assets/react.svg'
 import Calculator from './components/calculator';
 
